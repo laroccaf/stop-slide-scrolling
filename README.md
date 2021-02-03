@@ -3,12 +3,12 @@
 # stop-slide-scrolling
 Removes annoying accidental slide scrolling behavior in Google Drive Presentations.
 
-This version removes the use of analytics in the original.
+This version removes the use of Google Analytics in the original.
 
 ### Credits
 
-Owen Mundy, [sneakaway.studio](https://sneakaway.studio)
-[Frank LaRocca](https://f-larocca.com)
+* Owen Mundy, [sneakaway.studio](https://sneakaway.studio)
+* [Frank LaRocca](https://f-larocca.com)
 
 ### Installation
 
